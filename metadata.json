@@ -1,0 +1,5 @@
+{
+  "name": "xenora",
+  "description": "The new era of chemistry.",
+  "requestFramePermissions": ["geolocation"]
+}
